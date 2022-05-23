@@ -1,0 +1,79 @@
+_repo: Short-stories-from-Life-The-81-prize-stories-in-Life-s-Shortest-Story-Contest_68085
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Masson, Thomas L.
+    aliases:
+    - Masson, Thomas Lansing
+    - Masson, Tom
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '1991'
+    url: http://www.gutenberg.org/2009/agents/1991
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Lansing_Masson
+description: ''
+gutenberg_issued: '2022-05-15'
+identifiers:
+  gutenberg: '68085'
+  lccn: '16017415'
+language: en
+pgterms:marc904: https://archive.org/details/shortstoriesfro00presgoog
+pgterms:marc905: 20220303151851masson
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Doubleday, Page & Company,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 20th century'
+- GITenberg
+tableOfContents: 'Introduction, by Thomas L. Masson -- Thicker than water (first prize),
+  by Ralph Henry Barbour and George Randolph Osborne -- The answer (second prize),
+  by Harry Stillwell Edwards -- Her memory (third prize divided), by Dwight M. Wiley
+  -- Business and ethics (third prize divided), by Redfield Ingalls -- N. B., by Joseph
+  Hall -- The clearest call, by Brevard Mays Connor -- Greater love hath no man, by
+  Selwyn Grattan -- The Gretchen plan, by William Johnston -- The glory of war, by
+  M. B. Levick -- The aviator, by Hornell Hart -- Loyalty, by Clarence Herbert New
+  -- Moses comes to Burning Bush, by W. T. Larned -- North of fifty-three, by Mary
+  Woodbury Caswell -- The old things, by Jessie Anderson Chase -- The forced march,
+  by Hornell Hart -- Approximating the ultimate with Aunt Sarah, by Charles Earl Gaymon
+  -- The horse heaver, by Lyman Bryson -- The ego of the metropolis, by Thomas T.
+  Hoyne -- The gay deceiver, by Howard P. Stephenson -- In cold blood, by Joseph Hall
+  -- Housework: and the man, by Freeman Tilden -- His journey''s end, by Ruth Sterry
+  -- Food for thought, by Harriet Lummis Smith -- Hope, by Edward Thomas Noonan --
+  Collusion, by Lincoln Steffens -- Faithful to the end, by Clair W. Perry -- Arletta,
+  by Margaret Ade -- Which?, by Joseph Hall -- What the vandals leave, by Herbert
+  Riley Howe -- Ben. T. Allen, Atty., vs. Himself, by William H. Hamby -- The joke
+  on Preston, by Lewis Allen -- The idyl, by Joseph F. Whelan -- Withheld, by Ella
+  B. Argo -- Up and down, by Bertha Lowry Gwynne -- Patches, by Francis E. Norris
+  -- The arm at Gravelotte, by William Almon Wolff -- The bad man, by Harry C. Goodwin
+  -- Nemesis, by Mary Clark -- The black door, by Gordon Seagrove -- The man who told,
+  by John Cutler -- The unanswered call, by Thomas T. Hayne -- The women in the case,
+  by Mary Sams Cooke -- The cat that came back, by Virginia West -- "Solitaire" Bill,
+  by Arthur Felix McEachern -- Just a pal, by Elsie D. Knisely -- When "kultur" was
+  beaten, by Lieutenant X -- Presumption of innocence, by Lyman Bryson -- A Mexican
+  vivandière, by H. C. Washburn -- Mother''s birthday present, by Carrie Seever --
+  Red blood or blue, by E. Montgomery -- Impulsive Mr. Jiggs, by Roger Brown -- Tomaso
+  and me, by Graham Clark -- The Old Grove Crossing, by Albert H. Coggins -- Lost
+  and found, by John Kendrick Bangs -- You never can tell, by "B. MacArthur" -- The
+  escape, by A. Leslie Goodwin -- Two letters, a telegram, and a finale, by H. S.
+  Haskins -- The intruder, by Reginald Barlow -- Molten metal, by Hornell Hart --
+  The winner''s loss, by Elliott Flower -- The recoil of the gun, by Marian Parker
+  -- "Man may love", by Robert Sharp -- One way; and another, by Noble May -- The
+  black patch, by Randolph Hartley -- A shipboard romance, by Lewis Allen -- The coward,
+  by Philip Francis Cook -- The heart of a burglar, by Jane Dahl -- The reward, by
+  Herbert Heron -- The first girl, by Louise Pond Jewell -- A sophistry of art, by
+  Eugene Smith -- The message in the air, by B. R. Stevens -- In a garden, by Catherine
+  Runscomb -- A clever catch, by Lloyd F. Loux -- Strictly business, by Lincoln Steffens
+  -- The advent of the majority, by Stella Wynne Herron -- The night nurse, by Will
+  S. Gidley -- Why the trench was lost, by Charles F. Pietsch -- The king of the pledgers,
+  by H. R. R. Hertzberg -- A po-lice-man, by Lincoln Steffens -- The quest of the
+  V. C., by A. Byers Fletcher -- Somewhere in Belgium, by Percy Godfrey Savage.'
+title: 'Short stories from Life: The 81 prize stories in "Life''s" Shortest Story
+  Contest'
+url: http://www.gutenberg.org/ebooks/68085
